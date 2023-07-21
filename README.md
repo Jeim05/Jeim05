@@ -7,6 +7,8 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/jeimmy-lopez-vega/" target="blank"><img align="center" src="linkedin.png" alt="Jeim05" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jeimmy-lopez-vega/" target="blank"><img align="center" src="linkedin.png" alt="Jeim05" height="40" width="40" /></a>
+
+<h3 align="left">Connect with me:</h3>
 
 
