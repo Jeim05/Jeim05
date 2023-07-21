@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hello!👋 Im Jeimmy Lopez Vega
+#### I'm software Engineer. 
+
+Im passioante about web development. I have constantly trained, to improve my skills and learn about new tecnologies
+
+How to reach me: lopezvegajeimmy@gmail.com
 
 <!--
 **Jeim05/Jeim05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
