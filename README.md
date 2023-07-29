@@ -3,9 +3,9 @@
 
 <p>I'm passionate about web software development. I have constantly trained, which has allowed me to develop solid knowledge in the area. I really enjoy learning languages and frameworks like React, Tailwind, Boostrap, as well as work in Wordpress. My approach in a project is focused on creating innovative and efficient solutions.</p>
 
-🌱 I’m currently learning React JS and Tailwind
-🔭 I’m currently working on my Portfolio
-📧 How to reach me: lopezvegajeimmy@gmail.com
+- 🌱 I’m currently learning React JS and Tailwind
+- 🔭 I’m currently working on my Portfolio
+- 📧 How to reach me: lopezvegajeimmy@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
