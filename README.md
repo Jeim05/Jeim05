@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My portfolio**
 
-- 🌱 I’m currently learning **React JS and Tailwind**
+- 🌱 I’m currently learning **React JS, Next JS and Tailwind**
 
 - 📫 How to reach me **lopezvegajeimmy@gmail.com**
 
