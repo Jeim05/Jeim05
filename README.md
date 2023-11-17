@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋, I'm Jeimmy Lopez Vega</h1>
 <p align="center">I'm passionate about web software development. I have constantly trained, which has allowed me to develop solid knowledge in the area. I really enjoy learning languages and frameworks like React, Tailwind, Boostrap, as well as work in Wordpress. My approach in a project is focused on creating innovative and efficient solutions.</p>
 
-- 🔭 I’m currently working on **My portfolio**
+- 🔭 I’m currently working on **My portfolio** but you but you can see it now (https://soyjeimmylopezvega.vercel.app/)
 
 - 🌱 I’m currently learning **React JS, Next JS and Tailwind**
 
