@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **lopezvegajeimmy@gmail.com**
 
-- 📄 Know about my experiences [Resume Jeimmy Lopez Vega](https://github.com/Jeim05/Jeim05/blob/main/Resume-Jeimmy Lopez-Vega.pdf)
+- 📄 Know about my experiences [Resume Jeimmy Lopez Vega](https://github.com/Jeim05/Jeim05/blob/main/Resume-Jeimmy%20Lopez-Vega.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
