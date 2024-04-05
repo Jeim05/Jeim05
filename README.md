@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **project for expense management**
 
-- 🌱 I’m currently learning **Full-stack javascript technologies**
+- 🌱 I’m currently learning **English**
 
 - 📫 How to reach me **lopezvegajeimmy@gmail.com**
 
