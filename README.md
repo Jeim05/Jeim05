@@ -77,6 +77,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Jeim05/Jeim05/output/snake.svg" alt="Snake animation" />
-
-###
