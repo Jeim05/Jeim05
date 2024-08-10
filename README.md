@@ -7,6 +7,11 @@
 ###
 
 <div align="left">
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="30" alt="microsoftsqlserver logo"  />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
@@ -23,11 +28,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="30" alt="microsoftsqlserver logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
   <img width="12" />
